@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y=m%0g_%i@poozvqys!#+5^x(_(-^tr@8(1q8@!ow9i1n*%8y8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-Allow_host = [‘Public IPv4 DNS copied ’]
+Allow_host = ['Public IPv4 DNS copied']
 
 
 # Application definition
